@@ -2,7 +2,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-### Holberton Low Level Programming (Language C)
+### Language C
 
 - [C - argc, argv](https://github.com/HugoCLI/holbertonschool-low_level_programming/blob/main/argc_argv/README.md)
 - [C - More functions, more nested loops](https://github.com/HugoCLI/holbertonschool-low_level_programming/blob/main/functions_nested_loops/README.md)
@@ -16,6 +16,3 @@
 - [C - Static libraries](https://github.com/HugoCLI/holbertonschool-low_level_programming/blob/main/static_libraries/README.md)
 - [C - Variables, if, else, while](https://github.com/HugoCLI/holbertonschool-low_level_programming/blob/main/variables_if_else_while/README.md)
 
-&nbsp;
-### Holberton Shell (Language SHELL)
-no data available
