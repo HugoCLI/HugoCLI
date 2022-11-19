@@ -2,7 +2,7 @@
 
 ![70%](https://progress-bar.dev/70?title=PHP)
 ![85%](https://progress-bar.dev/80?title=Javascript)
-![80%](https://progress-bar.dev/80?title=NodeJS)
+![90%](https://progress-bar.dev/90?title=NodeJS)
 ![75%](https://progress-bar.dev/75?title=HTML)
 ![85%](https://progress-bar.dev/85?title=CSS)
 ![80%](https://progress-bar.dev/80?title=SQL)
