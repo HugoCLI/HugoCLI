@@ -12,3 +12,12 @@
 ![2%](https://progress-bar.dev/2?title=C#)
 ![25%](https://progress-bar.dev/25?title=C)
 ![5%](https://progress-bar.dev/5?title=Rust)
+
+
+ 
+  
+   
+    
+**Contact information**
+
+  - hugo.chilemme@holbertonstudents.com
