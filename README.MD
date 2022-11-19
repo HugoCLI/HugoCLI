@@ -9,6 +9,7 @@
 
 Learn:
 
+![30%](https://progress-bar.dev/30?title=Shell)
 ![10%](https://progress-bar.dev/10?title=Python)
 ![2%](https://progress-bar.dev/2?title=C#)
 ![25%](https://progress-bar.dev/25?title=C)
